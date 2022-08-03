@@ -7,3 +7,5 @@
 
 - Gives a random suggestion on what you could do when you click on the bulb icon
 - Background color also gets changed randomly on every button click
+
+### [Live Link](https://fahad-masood.github.io/mashwarah/)
